@@ -3,6 +3,7 @@ Here is the application in action:
 
 ![Demo Screenshot 1](demo1.jfif)
 ![Demo Screenshot 2](demo2.jfif)
+![Demo Screenshot 3](demo3.jfif)
 
 ## 📚 Acknowledgements & Credits
 This project was built as part of the **AWS Learning Club - QCU Workshop**. Full credit for the architecture and curriculum goes to **Darla David**.
